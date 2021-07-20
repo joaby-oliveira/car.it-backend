@@ -1,0 +1,19 @@
+{
+  "name": "car.it-backend",
+  "version": "1.0.0",
+  "description": "Car.it backend api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaby-oliveira/car.it-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaby-oliveira/car.it-backend/issues"
+  },
+  "homepage": "https://github.com/joaby-oliveira/car.it-backend#readme"
+}
